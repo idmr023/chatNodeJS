@@ -1,0 +1,80 @@
+#sesion-chat{
+    display: none;
+}
+
+.msg{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.msg b{
+    padding-top: 10px;
+}
+
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+.dark-mode #inicio {
+    background-color: #333;
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+.dark-mode #nombre-ingresado {
+    background-color: #333;
+    color: #fff;
+}
+
+.dark-mode .card-header {
+    border: 1px solid #fff;
+}
+
+.dark-mode #solo-chat {
+    background-color: #333;
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+.dark-mode #solo-tabla {
+    background-color: #333;
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+.dark-mode #barra-mensaje {
+    background-color: #333;
+    color: #fff;
+}
+  
+.light-mode {
+    background-color: #fff;
+    color: #333;
+}
+
+.light-mode #inicio {
+    background-color: #fff;
+    color: #333;
+}
+
+.light-mode #nombre-ingresado {
+    background-color: #fff;
+    color: #333;
+}
+
+.light-mode #solo-chat {
+    background-color: #fff;
+    color: #333;
+}
+
+.light-mode #solo-tabla {
+    background-color: #fff;
+    color: #333;
+}
+
+.light-mode #barra-mensaje {
+    background-color: #fff;
+    color: #333;
+}
+
